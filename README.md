@@ -59,16 +59,18 @@ Alberto Boschetti is a data scientist with expertise in signal processing and st
 Luca Massaron is a data scientist and marketing research director specialized in multivariate statistical analysis, machine learning, and customer insight, with over a decade of experience of solving real-world problems and generating value for stakeholders by applying reasoning, statistics, data mining, and algorithms. From being a pioneer of web audience analysis in Italy to achieving the rank of a top-10 Kaggler, he has always been very passionate about every aspect of data and its analysis, and also about demonstrating the potential of data-driven knowledge discovery to both experts and non-experts. Favoring simplicity over unnecessary sophistication, Luca believes that a lot can be achieved in data science just by doing the essentials.
 
 
-## Other books by the authors
-[](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials?utm_source=github&utm_medium=repository&utm_campaign=)
+## Other Packt books by the authors
+[Python Data Science Essentials - First Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials?utm_source=github&utm_medium=repository&utm_campaign=)
 
-[](https://www.packtpub.com/big-data-and-business-intelligence/regression-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=)
+[Regression Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/regression-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=)
 
-[](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=)
+[Large Scale Machine Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-python?utm_source=github&utm_medium=repository&utm_campaign=)
 
 [Python Data Science Essentials - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786462138 )
 
 [Python: Real World Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-real-world-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781787123212 )
+
+[TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
